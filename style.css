@@ -1,0 +1,11 @@
+
+.card-img-top {
+    width: 18rem;
+    height: 40vh;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
